@@ -73,7 +73,7 @@ SafeSwap provides a secure and reliable escrow service for peer-to-peer student 
   - [ ] Data validation and schema structure
   - [ ] Data handling and flow mapping
 
-- **Mark** (@markyy28.) — *Algorithms & Data*
+- **Mark Anthony S. Bacus** (markanthony28-gif) — *Algorithms & Data*
   - [ ] Database queries and data handling
   - [ ] Program logic planning and test verification
 
